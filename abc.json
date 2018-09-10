@@ -1,0 +1,242 @@
+ [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Chris Good",
+            "title": "Ahead of election, Sweden warns its voters against foreign disinformation",
+            "description": "Voters in Sweden will head to the polls on Sunday.",
+            "url": "https://abcnews.go.com/International/ahead-election-sweden-warns-voters-foreign-disinformation/story?id=57694373",
+            "urlToImage": "https://s.abcnews.com/images/International/sweden-election-2-rt-er-180908_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T23:35:12Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joshua Hoyos, ERIELLE RESHEF and Wil Cruz",
+            "title": "Serena Williams loses temper, US Open final in stunning upset",
+            "description": "Serena Williams lost the U.S. Open final to 20-year-old Naomi Osaka.",
+            "url": "https://abcnews.go.com/US/serena-williams-loses-temper-us-open-final-stunning/story?id=57693958",
+            "urlToImage": "https://s.abcnews.com/images/Sports/serena-6-gty-er-180908_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T22:57:00Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAMES LONGMAN",
+            "title": "How I was named 'Mr. Pineapple' while reporting on the Thai cave rescue",
+            "description": "James Longman received the title of Mr. Pineapple, or Pineapple Prince, while reporting on the Thai cave rescue earlier this summer.",
+            "url": "https://abcnews.go.com/International/mr-pineapple-reporting-thai-cave-rescue/story?id=57696587",
+            "urlToImage": "https://s.abcnews.com/images/International/longman-1-gty-er-180908_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T22:47:07Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "James Hill",
+            "title": "Trump won't enforce Stormy Daniels nondisclosure agreement",
+            "description": "President Donald Trump said he will not attempt to enforce a nondisclosure agreement blocking porn star Stormy Daniels from revealing details of her alleged affair.",
+            "url": "https://abcnews.go.com/Politics/trump-enforce-stormy-daniels-nondisclosure-agreement/story?id=57697574",
+            "urlToImage": "https://s.abcnews.com/images/Politics/donald-trump-oval-office-ap-jc-180905_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T22:40:10Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "A year after Equifax breach, no enforcement actions",
+            "description": "Get breaking national and world news, broadcast video coverage, and exclusive interviews. Find the top news online at ABC news.",
+            "url": "https://abcnews.go.com/Technology/wireStory/year-equifax-breach-enforcement-actions-57697744",
+            "urlToImage": null,
+            "publishedAt": "2018-09-08T22:37:27Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Suspect in Brazil candidate stabbing moved to new prison",
+            "description": "The man suspected of stabbing Brazilian presidential candidate Jair Bolsonaro has been moved to a prison in the state of Mato Grosso do Sul",
+            "url": "https://abcnews.go.com/International/wireStory/suspect-brazil-candidate-stabbing-moved-prison-57697189",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_073cf6b0a30c4d20a87cecf1d8331232_16x9_992.jpg",
+            "publishedAt": "2018-09-08T21:30:37Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Women rally for gender equality at Toronto Film Festival",
+            "description": "Women filmmakers, activists and actors have congregated outside the hub of the Toronto International Film Festival for a series of impassioned speeches on gender inequality in the movie industry and solutions for change",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/women-rally-gender-equality-toronto-film-festival-57696577",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_1f322e63b7c640ecab11cbad6c160568_16x9_992.jpg",
+            "publishedAt": "2018-09-08T21:30:26Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Wildfire that closed key California highway explodes in size",
+            "description": "A roaring wildfire that shut down a stretch of a major interstate near the California-Oregon border exploded in size as crews on Saturday scrambled to prevent flames from reaching rural communities.",
+            "url": "https://abcnews.go.com/International/wireStory/wildfire-closed-key-california-highway-explodes-size-57696921",
+            "urlToImage": "https://s.abcnews.com/images/Travel/WireAP_29da9455606a4d0b8d1dad388cb69150_16x9_992.jpg",
+            "publishedAt": "2018-09-08T21:17:18Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Anthony Rivas",
+            "title": "Victim of Cincinnati shooting hopes 'to make a difference in the future'",
+            "description": "Whitney Austin was shot 12 times by Omar Perez during the shooting at Fifth Third Center Bank in downtown Cincinnati.",
+            "url": "https://abcnews.go.com/US/victim-cincinnati-shooting-hopes-make-difference-future/story?id=57691593",
+            "urlToImage": "https://s.abcnews.com/images/US/cincinnati-shooting-05-gty-rc-180906_hpMain_2_16x9_992.jpg",
+            "publishedAt": "2018-09-08T21:09:13Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Turkmenistan opens plant to ship power to Afghanistan",
+            "description": "Turkmenistan has inaugurated a large gas-powered electricity plant that is expected to sell about 3 billion kilowatt-hours of power a year to Afghanistan and Pakistan",
+            "url": "https://abcnews.go.com/International/wireStory/turkmenistan-opens-plant-ship-power-afghanistan-57696630",
+            "urlToImage": null,
+            "publishedAt": "2018-09-08T21:04:27Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Chris Good",
+            "title": "Ahead of election, Sweden warns its voters against foreign misinformation",
+            "description": "Voters in Sweden will head to the polls on Sunday.",
+            "url": "https://abcnews.go.com/International/ahead-election-sweden-warns-voters-foreign-misinformation/story?id=57694373",
+            "urlToImage": "https://s.abcnews.com/images/International/sweden-election-2-rt-er-180908_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T20:44:22Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": null,
+            "title": "Ahead of election, Sweden warns its voters against foreign misinformation - ABC News",
+            "description": "ABC News Ahead of election, Sweden warns its voters against foreign misinformation ABC News “If Sweden is attacked, resistance is required,” Swedes were warned this year. A 20-page leaflet, mailed to all households in Sweden and resembling a wartime governmen…",
+            "url": "https://abcnews.go.com/International/ahead-election-sweden-warns-voters-foreign-misinformation/story?id%3D57694373",
+            "urlToImage": null,
+            "publishedAt": "2018-09-08T20:43:00Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Thousands in France, California say 'no' to climate change",
+            "description": "Thousands of people a march and rally in Paris as part of a global mobilization to show popular support for urgent measures to combat climate change",
+            "url": "https://abcnews.go.com/Technology/wireStory/thousands-france-california-climate-change-57695677",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_e00dd533a7ee4325b61d88f6031ebe05_16x9_992.jpg",
+            "publishedAt": "2018-09-08T19:59:17Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Latest: Boom on way to corral Pacific Ocean's plastic trash",
+            "description": "A giant trash collection device has left San Francisco on its way to pick up plastic litter floating in the Pacific Ocean between California and Hawaii",
+            "url": "https://abcnews.go.com/Technology/wireStory/latest-boom-corral-pacific-oceans-plastic-trash-57695133",
+            "urlToImage": "https://s.abcnews.com/images/Technology/WireAP_a13bdcb614114d02b5dfee6de83f2c29_16x9_992.jpg",
+            "publishedAt": "2018-09-08T19:19:58Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Stacy Chen",
+            "title": "Lawyer's post mocking Asians sparks backlash, calls for disciplinary action",
+            "description": "Christina Ignatius' remarks mocking Asians went viral.",
+            "url": "https://abcnews.go.com/US/lawyers-post-mocking-asians-sparks-backlash-calls-disciplinary/story?id=57681071",
+            "urlToImage": null,
+            "publishedAt": "2018-09-08T19:19:24Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Company offers to drop Stormy Daniels' hush-money agreement",
+            "description": "A company created by Donald Trump's former personal lawyer has offered to rescind Stormy Daniels' hush-money agreement and has scrapped a threatened $20 million lawsuit against the porn actress for allegedly violating that deal",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/company-offers-drop-stormy-daniels-hush-money-agreement-57694797",
+            "urlToImage": "https://s.abcnews.com/images/Politics/WireAP_50674f16f66b4cdfbcc535e746f1235b_16x9_992.jpg",
+            "publishedAt": "2018-09-08T19:04:46Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "WATCH: Uber CEO: 'We are now the kind of company that you can be proud of to work for'",
+            "description": "On his one year anniversary as CEO of Uber Dara Khosrowshahi talks new safety features, company culture, future IPO, flying and autonomous Ubers.",
+            "url": "https://abcnews.go.com/Technology/video/uber-ceo-now-kind-company-proud-work-57694664",
+            "urlToImage": "https://s.abcnews.com/images/Technology/180908_vod_uber_full_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-09-08T18:56:43Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Serbian leader says resolving Kosovo conflict 'very hard'",
+            "description": "Serbia's president says an agreement resolving his country's dispute with Kosovo will be difficult to achieve given European opposition to remaking borders in the Balkans region",
+            "url": "https://abcnews.go.com/International/wireStory/serbian-leader-resolving-kosovo-conflict-hard-57694606",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_cf7f7248578d4755aa8dce18a7c01fad_16x9_992.jpg",
+            "publishedAt": "2018-09-08T18:38:23Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Trump: Apple can avoid tariffs by shifting production to US",
+            "description": "Trump agrees with Apple that potential tariffs on Chinese imports could make its gadgets more expensive, but says the tech company can fix the problem by moving production to the U.S.",
+            "url": "https://abcnews.go.com/Technology/wireStory/trump-apple-avoid-tariffs-shifting-production-us-57694495",
+            "urlToImage": null,
+            "publishedAt": "2018-09-08T18:28:42Z"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "'The Rascals' guitarist Gene Cornish collapses on stage",
+            "description": "A theater official says Rock & Roll Hall of Fame guitarist Gene Cornish of The Rascals collapsed on stage while performing in Montana",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/rascals-guitarist-gene-cornish-collapses-stage-57694407",
+            "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_010b9047298e458cad442956179df19b_16x9_992.jpg",
+            "publishedAt": "2018-09-08T18:15:31Z"
+        }
+    ]
